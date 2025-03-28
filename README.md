@@ -14,8 +14,8 @@ Para saber más de Chikorita: [Pokedex N.º 0152](https://www.pokemon.com/el/pok
 Aptitud | Número de estrellas
 -------|-----------
 Velocidad | 4
-Fortalezas | 3
-Precision | 4
+Fortaleza | 3
+Precisión | 4
 Resistencia | 3
 Salto | 3
 
