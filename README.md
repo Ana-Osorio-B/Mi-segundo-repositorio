@@ -4,7 +4,8 @@ Es el Pokemón inicial tipo planta perteneciente a la segunda generación. Tambi
 
 Es un cuadrupedo de tonos verdes con una gran hoja en su cabeza, la cual desprende aroma dulce. En su cuello posee brotes que pueden formar lianas.
 
-![Chikorita](https://images.wikidexcdn.net/mwuploads/wikidex/4/4e/latest/20230523204350/Chikorita.png)
+![Chikorita](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/152.png)
+
 
 Para saber mas de Chikorita: [Pokedex N.º 0152](https://www.pokemon.com/el/pokedex/chikorita)
 
