@@ -1,17 +1,17 @@
 # Chikorita
 
-Es el Pokemón inicial tipo planta perteneciente a la segunda generación. También se incluyó en la cuarta generación y Leyendas Pokémon: Z-A.
+Es el Pokémon inicial tipo planta perteneciente a la segunda generación. También se incluyó en la cuarta generación y Leyendas Pokémon: Z-A.
 
-Es un cuadrupedo de tonos verdes con una gran hoja en su cabeza, la cual desprende aroma dulce. En su cuello posee brotes que pueden formar lianas.
+Es un cuadrúpedo de tonos verdes con una gran hoja en su cabeza, la cual desprende aroma dulce. En su cuello posee brotes que pueden formar lianas.
 
 ![Chikorita](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/152.png)
 
 
-Para saber mas de Chikorita: [Pokedex N.º 0152](https://www.pokemon.com/el/pokedex/chikorita)
+Para saber más de Chikorita: [Pokedex N.º 0152](https://www.pokemon.com/el/pokedex/chikorita)
 
-## Estadisticas
+## Estadísticas
 
-Aptitud | Numero de estrellas
+Aptitud | Número de estrellas
 -------|-----------
 Velocidad | 4
 Fortalezas | 3
